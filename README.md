@@ -1,43 +1,34 @@
-# Hi, I'm Parth Oza 👋
+# Hi, I'm Parth Oza
 
-**AI Engineer** — Machine Learning · Generative AI · LLM Systems | Chicago, IL
+### Robotics & AI Software Engineer · Chicago, IL
 
-I build production-grade AI systems: RAG chatbots, ML pipelines processing millions of financial records, and LLM-powered document automation. Currently an AI Engineer at Northern Trust; M.S. in Computer Science (Roosevelt University, Dec 2025).
+I build dependable autonomy software across perception, localization, planning, control, simulation, and fleet observability. My work connects C++ and Python robotics systems with production infrastructure and accelerated AI at the edge.
 
-## 🔭 What I work on
+[Portfolio](https://parthoza.net) · [LinkedIn](https://www.linkedin.com/in/oza-parth) · [Email](mailto:ozaparth426@gmail.com)
 
-- **RAG & LLM systems** — LangChain, LangGraph, LlamaIndex, prompt engineering, hallucination evaluation
-- **ML engineering** — end-to-end pipelines, feature engineering, model serving with FastAPI
-- **MLOps & cloud** — Azure (ADF, Databricks, AKS, OpenAI), AWS (S3, Glue, Lambda), Docker, Kubernetes, Airflow
+## What I work on
 
-## 🚀 Featured projects
+- **Autonomous systems:** ROS2, Nav2, TF2, SLAM, EKF/UKF sensor fusion, planning, and recovery behavior
+- **Perception and edge AI:** OpenCV, PCL, PyTorch, TensorFlow, CUDA, TensorRT, ONNX, and NVIDIA Jetson
+- **Robotics platforms:** MoveIt2, ROS2 Control, Gazebo, Isaac Sim, RViz, MCAP, and rosbag2
+- **Production engineering:** C++17/20, Python, AWS, Docker, CMake, Linux, Jenkins, GitLab CI, telemetry, and diagnostics
 
-| Project | What it shows |
+## Featured engineering projects
+
+| Project | Engineering focus |
 |---|---|
-| [agentic-rag-langgraph](https://github.com/Parth-Oza/agentic-rag-langgraph) | Self-correcting agentic RAG (CRAG pattern) with LangGraph — retrieval grading, query rewriting, web fallback |
-| [rag-document-chatbot](https://github.com/Parth-Oza/rag-document-chatbot) | Production-style RAG pipeline: FAISS, citations, hallucination guard, eval harness |
-| [ai-candidate-scoring](https://github.com/Parth-Oza/ai-candidate-scoring) | XGBoost candidate scoring model (82% acc) served via real-time FastAPI |
-| [stock-trend-forecasting-lstm](https://github.com/Parth-Oza/stock-trend-forecasting-lstm) | PyTorch LSTM directional forecaster, 15+ technical indicators, visual backtesting |
+| [Autonomy Log Triage](https://github.com/Parth-Oza/autonomy-log-triage) | Deterministic incident detection and heartbeat-gap analysis for synthetic robot event streams |
+| [EKF Sensor Fusion Lab](https://github.com/Parth-Oza/ekf-sensor-fusion-lab) | Transparent 2D state estimation, asynchronous sensor updates, Joseph-form covariance, and seeded verification |
+| [Robot Fleet Observability](https://github.com/Parth-Oza/robot-fleet-observability) | Explainable fleet-health scoring and a dependency-free JSON telemetry API |
+| [Speech Emotion Detection](https://github.com/Parth-Oza/SPEECH-EMOTION-DETECTION-USING-CNN-AND-LSTM) | MFCC-based speech classification with CNN and LSTM models in TensorFlow |
+| [Agentic RAG with LangGraph](https://github.com/Parth-Oza/agentic-rag-langgraph) | Retrieval grading, query rewriting, and a self-correcting agent workflow |
 
-## 🛠 Tech
+The robotics repositories use synthetic data and are independent portfolio demonstrations. They contain no employer source code, operational data, facility details, or proprietary interfaces.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+## Current focus
 
-## 📊 GitHub stats
+I am interested in production robotics roles where autonomy must remain observable, efficient, and safe outside a controlled demo—especially work involving robot fleets, mobile manipulation, perception, and accelerated edge inference.
 
-![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parth-Oza&show_icons=true&theme=default)
+## Core stack
 
-## 📫 Reach me
-
-[LinkedIn](https://www.linkedin.com/in/parth-oza) · ozaparth426@gmail.com
+`C++17/20` `Python` `ROS2` `Nav2` `TF2` `MoveIt2` `ROS2 Control` `OpenCV` `PCL` `SLAM` `EKF/UKF` `CUDA` `TensorRT` `ONNX` `Gazebo` `Isaac Sim` `AWS` `Docker` `CMake` `Linux`

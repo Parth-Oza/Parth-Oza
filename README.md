@@ -4,7 +4,7 @@
 
 I build dependable autonomy software for industrial and mobile robots. My work spans perception, localization, sensor fusion, navigation, motion planning, simulation, fleet observability, and accelerated edge inference—connecting C++ and Python systems to real production infrastructure.
 
-[Portfolio](https://parthoza.net) · [LinkedIn](https://www.linkedin.com/in/oza-parth) · [Email](mailto:ozaparth426@gmail.com)
+[Portfolio](https://parthoza.net) · [LinkedIn](https://www.linkedin.com/in/oza-parth) · [Email](mailto:ozaparthu055@gmail.com)
 
 ## Engineering profile
 

@@ -51,13 +51,28 @@ These repositories use synthetic data and independent implementations. They cont
 - **M.S., Computer Science** — Roosevelt University
 - **B.E., Computer Engineering** — Saffrony Institute of Technology
 
+## Learning and credentials
+
+**Professional certificates**
+
+- Machine Learning Operations (MLOps) — DeepLearning.AI / Coursera
+- Introduction to Generative AI — Google Cloud
+- IBM AI Developer Professional Certificate — IBM
+- Google Data Analytics Professional Certificate — Google
+
+**Selected coursework**
+
+- Deep Learning, Intelligent Systems, Data Mining, and Big Data
+- Computing with Data in Python, Advanced Algorithms, and Systems Programming Concepts
+- Advanced Computer Architecture and Cryptography
+
 ## Current focus
 
 I am interested in robotics roles where autonomy must remain observable, computationally disciplined, and recoverable outside controlled demonstrations—especially robot fleets, mobile manipulation, perception, localization, navigation, and accelerated edge inference.
 
 ## Core stack
 
-`C++17/20` `Python` `ROS2` `Nav2` `TF2` `MoveIt2` `ROS2 Control` `OpenCV` `PCL` `SLAM` `EKF/UKF` `CUDA` `TensorRT` `ONNX` `Gazebo` `Isaac Sim` `AWS` `Docker` `CMake` `Linux`
+`C++17/20` `Python` `ROS2` `Nav2` `DDS/Fast DDS` `TF2` `Behavior Trees` `MoveIt2` `ROS2 Control` `OpenCV` `PCL` `SLAM` `EKF/UKF` `CUDA` `TensorRT` `ONNX` `Gazebo` `Isaac Sim` `HIL/SIL` `AWS` `Docker` `CMake` `Linux` `MCAP` `Jenkins` `GitLab CI` `Real-Time Systems`
 
 ---
 

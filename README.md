@@ -35,6 +35,13 @@ I build dependable autonomy software for industrial and mobile robots. My work s
 
 These repositories use synthetic data and independent implementations. They contain no employer source code, operational data, maps, facility details, or proprietary interfaces.
 
+### Evidence-led walkthroughs
+
+- [EKF Sensor Fusion Lab walkthrough](https://github.com/Parth-Oza/ekf-sensor-fusion-lab/blob/main/docs/media/ekf-sensor-fusion-walkthrough.mp4) — model assumptions, equations, implementation, numerical safeguards, tests, and the reproducible RMSE result.
+- [Autonomy Log Triage walkthrough](https://github.com/Parth-Oza/autonomy-log-triage/blob/main/docs/media/autonomy-diagnostics-walkthrough.mp4) — event schema, validation, incident rules, heartbeat-gap calculation, deterministic reporting, and system boundaries.
+
+Each walkthrough is paired with an evidence record so reviewers can reproduce the public result and distinguish implemented capability from the production roadmap.
+
 ## Applied AI
 
 - [Agentic RAG with LangGraph](https://github.com/Parth-Oza/agentic-rag-langgraph) — retrieval grading, query rewriting, and self-correcting control flow.
